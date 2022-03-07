@@ -1,5 +1,5 @@
 ## Hey, I'm Lucas!
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
+<img align='center' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
  
 - 🔭 I'm a developer specialized in creating Java & Angular applications
 
