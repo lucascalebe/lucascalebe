@@ -1,4 +1,5 @@
-## Hey, I'm Lucas! 
+## Hey, I'm Lucas!
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
  
 - 🔭 I'm a developer specialized in creating Java & Angular applications
 
@@ -8,6 +9,16 @@
 </div> 
 
 ##
+
+### A little more about me...  
+
+```javascript
+const lucasCalebe = {
+  code: [Java, Typescript, JavaScript, Kotlin, HTML, CSS],
+  tools: [Spring, Angular],
+  architecture: [Microservices, Hexagonal, MVC],
+}
+```
 
 <div>
  <a href="https://www.linkedin.com/in/lucascalebe07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
