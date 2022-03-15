@@ -16,7 +16,7 @@
 const lucasCalebe = {
   code: [Java, Typescript, JavaScript, Kotlin, HTML, CSS],
   tools: [Spring, Angular],
-  architecture: [Microservices, Hexagonal, MVC],
+  architecture: [Microservices, Hexagonal, MVC, Clean Architecture],
 }
 ```
 
