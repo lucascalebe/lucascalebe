@@ -15,7 +15,7 @@
 ```javascript
 const lucasCalebe = {
   code: [Java, Typescript, JavaScript, Kotlin, HTML, CSS],
-  tools: [Spring, Angular],
+  tools: [Spring, Docker, RabbitMQ, Feign, AWS, Kubernetes],
   architecture: [Microservices, Hexagonal, MVC, Clean Architecture],
 }
 ```
